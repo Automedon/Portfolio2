@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "310a0701bb2ac2af3728",
+    "revision": "3e4fd5aa3a6c668cbfc2",
     "url": "/Portfolio2/static/css/main.b6b1b4ee.chunk.css"
   },
   {
-    "revision": "310a0701bb2ac2af3728",
-    "url": "/Portfolio2/static/js/main.0f261846.chunk.js"
+    "revision": "3e4fd5aa3a6c668cbfc2",
+    "url": "/Portfolio2/static/js/main.7bcc654e.chunk.js"
   },
   {
     "revision": "9d869cc5c6a35476c8a0",
     "url": "/Portfolio2/static/js/runtime~main.32625e0a.js"
   },
   {
-    "revision": "24e55761d5954df25013",
+    "revision": "fe11a6945e1a66f16275",
     "url": "/Portfolio2/static/css/2.80fedd12.chunk.css"
   },
   {
-    "revision": "24e55761d5954df25013",
-    "url": "/Portfolio2/static/js/2.28af9885.chunk.js"
+    "revision": "fe11a6945e1a66f16275",
+    "url": "/Portfolio2/static/js/2.d95504a7.chunk.js"
   },
   {
     "revision": "393e9a672ee8cc3d6c93dcee8aa29e33",
@@ -132,23 +132,23 @@ self.__precacheManifest = [
     "url": "/Portfolio2/static/media/Sketch_Block.809ae631.ttf"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/Portfolio2/static/media/slick.d41f55a7.ttf"
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/Portfolio2/static/media/slick.ced611da.eot"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/Portfolio2/static/media/slick.b7c9e1e4.woff"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/Portfolio2/static/media/slick.ced611da.eot"
-  },
-  {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/Portfolio2/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "b61059bdd73b8a98e205fa6ded6624f3",
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/Portfolio2/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "d748d92620b39b707368bfeae07249b2",
     "url": "/Portfolio2/index.html"
   }
 ];
